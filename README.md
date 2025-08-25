@@ -116,12 +116,16 @@ Open terminal and try execute some kali linux commands
 ```
 ## site
 <img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/f2cef33b-2237-494f-bc31-1a3343b854ef" />
+
 ## inurl
 <img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/3c10de4f-db93-43f8-9612-a32452472926" />
+
 ## filetype
 <img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/06afdad3-805f-4151-9b01-d86663a0505e" />
+
 ## intitle
 <img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/986af1ef-b8b2-4521-855a-4e77bcaa9994" />
+
 ## intext
 <img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/3b782938-8f67-43c9-af37-86ee4482d420" />
 
@@ -138,6 +142,7 @@ dnsenum example.com
 ```
 
 ## Output:
+<img width="957" height="825" alt="image" src="https://github.com/user-attachments/assets/32fd54b0-fc9e-4178-88fb-f483405202c9" />
 
 
 
@@ -152,6 +157,7 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
   
  ## Output
   
+<img width="956" height="689" alt="image" src="https://github.com/user-attachments/assets/4d085b64-0d2b-4fca-9bce-ceda1fc293e8" />
 
 
 ## nmap –script smtp-enum-users.nse <hostname>
@@ -164,7 +170,7 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 nmap -p 25 --script smtp-enum-users.nse <target-ip>
 ```
 ## OUTPUT:
-
+<img width="564" height="190" alt="image" src="https://github.com/user-attachments/assets/944c3339-ea63-455c-90df-adf2881a0fbb" />
 
 
 ## RESULT:
