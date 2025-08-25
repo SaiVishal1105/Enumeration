@@ -114,6 +114,19 @@ Open terminal and try execute some kali linux commands
 +-----------------------------+
 
 ```
+## site
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/f2cef33b-2237-494f-bc31-1a3343b854ef" />
+## inurl
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/3c10de4f-db93-43f8-9612-a32452472926" />
+## filetype
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/06afdad3-805f-4151-9b01-d86663a0505e" />
+## intitle
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/986af1ef-b8b2-4521-855a-4e77bcaa9994" />
+## intext
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/3b782938-8f67-43c9-af37-86ee4482d420" />
+
+## link
+<img width="1918" height="976" alt="image" src="https://github.com/user-attachments/assets/e7e6fc64-87ac-4f10-afdf-799f5e17ec4b" />
 
 ## dnsenum
 **Purpose:** A multithreaded Perl script to enumerate information from DNS servers.
